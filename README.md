@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 팀 프로젝트(대림대학교) : [HongBer](https://github.com/SeoEunGi0802/HongBer)
+- 개인 프로젝트 : [WIMP](https://github.com/SeoEunGi0802/WIMP), [sjlim0225](https://github.com/SeoEunGi0802/sjlim0225)
 
 <!---
 SeoEunGi0802/SeoEunGi0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
