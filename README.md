@@ -4,6 +4,7 @@
 - 🏙 대림학교 재학중
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 팀 프로젝트(대림대학교) : [HongBer](https://github.com/SeoEunGi0802/HongBer)
 
 <!---
 SeoEunGi0802/SeoEunGi0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
