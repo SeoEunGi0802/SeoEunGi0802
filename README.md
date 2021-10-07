@@ -1,10 +1,10 @@
 ## 🖐 [포트폴리오](https://seoeungi0802.github.io/SeoEunGi_portfolio/)
 
 - 👋 Hi, I’m @SeoEunGi0802
-- 👀 I’m interested in ... PHP, MySql, JAVA, HTML, CSS, ASP.net, JSP, JPA
-- 🌱 I’m currently learning ... PHP, MySql, React, React-Native, JSP, Android
+- 👀 I’m interested in ... PHP, MySql, JAVA, JSP, JPA, Spring Boot
+- 🌱 I’m currently learning ... PHP, MySql, React, React-Native, JSP
 - 🏙 대림학교 재학중
-- 
+
 - 팀 프로젝트(대림대학교)
     - [HongBer](https://github.com/SeoEunGi0802/HongBer)
     - [Daelim Festival - BackEnd](https://github.com/daelimfestival/daelimfestival_back)
