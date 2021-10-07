@@ -1,4 +1,4 @@
-#🖐 [포트폴리오](https://seoeungi0802.github.io/SeoEunGi_portfolio/)
+### 🖐 [포트폴리오](https://seoeungi0802.github.io/SeoEunGi_portfolio/)
 
 - 👋 Hi, I’m @SeoEunGi0802
 - 👀 I’m interested in ... PHP, MySql, JAVA, HTML, CSS, ASP.net, JSP, JPA
