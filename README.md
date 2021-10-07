@@ -8,7 +8,7 @@
 - 팀 프로젝트(대림대학교)
     - [HongBer](https://github.com/SeoEunGi0802/HongBer)
     - [Daelim Festival - BackEnd](https://github.com/daelimfestival/daelimfestival_back)
-    - [Daelim Festival - ForntEnd](https://github.com/daelimfestival/daelimfestival_front)
+    - [Daelim Festival - ForntEnd](https://github.com/daelimfestival/daelimfestival_front/commits?author=SeoEunGi0802)
 
 - 개인 프로젝트
     - [WIMP](https://github.com/SeoEunGi0802/WIMP)
