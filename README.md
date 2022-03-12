@@ -14,5 +14,5 @@
     - [WIMP](https://github.com/SeoEunGi0802/WIMP)
     - [sjlim0225](https://github.com/SeoEunGi0802/sjlim0225)
 
-- 포트폴리오
+- 기타
     - [Notion](https://www.notion.so/b68ddaef01dc4b05a2801f30442534ea)
