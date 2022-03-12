@@ -14,7 +14,5 @@
     - [WIMP](https://github.com/SeoEunGi0802/WIMP)
     - [sjlim0225](https://github.com/SeoEunGi0802/sjlim0225)
 
-<!---
-SeoEunGi0802/SeoEunGi0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 포트폴리오
+    - [Notion](https://www.notion.so/b68ddaef01dc4b05a2801f30442534ea)
